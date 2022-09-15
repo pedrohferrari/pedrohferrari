@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning Data Visualization, SQL, Python.
 ---
 # **How to reach me:**
-- 🐤 Twitter: @pedro_ferrari9
--  ℹ️  LinkedIN: https://www.linkedin.com/in/pedro-henrique-ferrari-27a4391a3/
-- 📷 Instagram: @ph_ferrari
+- 🐤 [Twitter](https://twitter.com/pedro_ferrari9)
+-  ℹ️  [LinkedIN](https://www.linkedin.com/in/pedro-henrique-ferrari-27a4391a3/)
+- 📷 [Instagram](https://instagram.com/ph_ferrari)
 
 <!---
 pedrohferrari/pedrohferrari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
