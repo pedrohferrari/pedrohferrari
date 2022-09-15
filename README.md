@@ -1,13 +1,15 @@
 # About me:
 - 👋 Hi, I’m @pedrohferrari. I'm a data enthusiast and aspiring to become a data engineer.
 
-
 - 👀 I’m interested in Data Science, Data Visualization, Business Inteligence and similars.
+
 - 🌱 I’m currently learning Data Visualization, SQL, Python.
 ---
 # **How to reach me:**
 - 🐤 [Twitter](https://twitter.com/pedro_ferrari9)
+
 -  ℹ️  [LinkedIN](https://www.linkedin.com/in/pedro-henrique-ferrari-27a4391a3/)
+
 - 📷 [Instagram](https://instagram.com/ph_ferrari)
 
 <!---
