@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Visualization, SQL, Python.
 ---
 # **How to reach me:**
-- 🐤 [Twitter](https://twitter.com/pedro_ferrari9)
+- 🐤 [Twitter](https://twitter.com/ph_ferrari9)
 
 -  ℹ️  [LinkedIN](https://www.linkedin.com/in/pedro-henrique-ferrari-27a4391a3/)
 
