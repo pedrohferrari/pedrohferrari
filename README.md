@@ -1,9 +1,9 @@
 # About me:
 - 👋 Hi, I’m @pedrohferrari. I'm a data enthusiast and aspiring to become a data engineer.
 
-- 👀 I’m interested in Data Science, Data Visualization, Business Inteligence and similars.
+- 👀 I’m interested in Data Engineering, Cloud Computing, Business Inteligence and similars.
 
-- 🌱 I’m currently learning Data Visualization, SQL, Python.
+- 🌱 I’m currently practicing Docker, Spark, Cloud Computing and ETL's.
 ---
 # **How to reach me:**
 - 🐤 [Twitter](https://twitter.com/ph_ferrari9)
