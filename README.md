@@ -1,5 +1,5 @@
 # About me:
-- 👋 Hi, I’m @pedrohferrari. I'm a data enthusiast and aspiring to become a data engineer.
+- 👋 Hi, I’m @pedrohferrari. I'm currently working as data engineer.
 
 - 👀 I’m interested in Data Engineering, Cloud Computing, Business Inteligence and similars.
 
